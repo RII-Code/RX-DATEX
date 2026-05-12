@@ -5,8 +5,8 @@ Modul power supply AC-DC yang dilengkapi monitoring realtime untuk kebutuhan emb
 ## Fitur
 
 - AC to DC converter (output: 5V 10W)
-- Monitoring realtimex
-- I2C communicationx
+- Monitoring realtime
+- I2C communication
 - Low power monitoring
 - Compact PCB design
 - Industrial ready
