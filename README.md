@@ -13,6 +13,8 @@ Modul power supply AC-DC yang dilengkapi monitoring realtime untuk kebutuhan emb
 - Overcurrent monitoring
 - Voltage sensing
 
+---
+
 ## Author
 
 Ruang Industri Indonesia  
