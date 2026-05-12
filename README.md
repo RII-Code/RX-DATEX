@@ -11,6 +11,8 @@ Perangkat IoT industrial yang berfungsi sebagai sistem gateway dan data exchange
 - MQTT / HTTP data exchange
 - Remote access dan konfigurasi perangkat
 
+---
+
 ## Author
 
 Ruang Industri Indonesia  
