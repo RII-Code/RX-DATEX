@@ -1,10 +1,8 @@
 # RX-DATEX (DATA EXCHANGE)
 
-Sistem gateway dan data exchange berbasis Orange Pi Orange Pi Zero 3 dan modul LTE/GNSS SIM7670G untuk komunikasi data industri menggunakan protokol Modbus.
+Perangkat IoT industrial yang berfungsi sebagai sistem gateway dan data exchange untuk komunikasi, monitoring, dan pertukaran data antar perangkat industri.
 
-# Deskripsi
-
-### RX-DATEX adalah perangkat IoT industrial yang berfungsi sebagai:
+## Fitur
 
 - Gateway Modbus RTU ↔ TCP/IP
 - Pengirim data telemetry melalui jaringan 4G LTE
