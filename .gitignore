@@ -3,5 +3,3 @@ production
 *-backups
 *.json
 *.log
-*_prl
-*_pro
